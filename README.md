@@ -10,8 +10,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />  
+   </a>
 
+<p align="center">
 <a href="#️-installation-guide">
     <img src="https://img.shields.io/badge/Instruction-C0C0C0?style=for-the-badge&logo=sparkles&logoColor=white"/>
   </a>
